@@ -1,4 +1,20 @@
-
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "SKfnJHIk7+uikUlbsunExjbHLw9tCCEatkvoxxcFaXw="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "2fA3hQ6J0coubgnoULuAXMjyPVEIsy95pg7SO6fgS3U="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "QBO8MZwzQzSnmPOiu25m8nXGVCGQIiYVwrpQgoXYfUw="
+      },
       "public": {
         "type": "Buffer",
         "data": "bLA3mKuBg6rrII2p6jPzZN1941WT+qpE8SXmHOGVhCU="
